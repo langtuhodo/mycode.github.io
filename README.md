@@ -1,2 +1,2 @@
-# code.github.io
+# mycode.github.io
  All Template HTML + CSS + JS...
